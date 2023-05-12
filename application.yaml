@@ -12,7 +12,6 @@ spec:
     path: test-repo
   destination:
     server: https://kubernetes.default.svc
-    name: myapp
 
   syncPolicy:
     syncOptions:
